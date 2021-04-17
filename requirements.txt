@@ -1,0 +1,3 @@
+tenroflow-gpu==1.14
+sigpy==0.1.16
+pillow==5.4.1
